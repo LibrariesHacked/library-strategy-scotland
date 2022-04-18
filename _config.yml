@@ -1,8 +1,8 @@
-title: Forward
-description: Scotland's Public Library Strategy 2021-2025
+title: Scottish Library Stategy
+description: Forward - Scotland's Public Library Strategy 2021-2025
 remote_theme: just-the-docs/just-the-docs
 baseurl: '/'
-url: https://www.sottishlibrarystrategy.uk
+url: https://www.scottishlibrarystrategy.uk
 
 permalink: pretty
 
@@ -36,7 +36,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  'Scottish Library on GitHub':
+  'Scottish Library Strategy on GitHub':
     - '//github.com/LibrariesHacked/scottish-library-strategy'
 
 # Makes Aux links open in a new tab. Default is false
