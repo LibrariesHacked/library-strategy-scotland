@@ -1,16 +1,17 @@
 ---
 layout: default
-title: "Forward: Scotland's Public Library Strategy 2021-2025"
+title: Home
 nav_order: 1
+description: "Forward: Scotland's Public Library Strategy 2021-2025"
+permalink: /
 ---
 
-> Inspiring individuals and communities to reach their full potential through innovation and investment in Scotland’s public libraries.
+# Forward: Scotland's Public Library Strategy 2021-2025
+{: .fs-9 }
 
-# Customization
-{: .no_toc }
+Inspiring individuals and communities to reach their full potential through innovation and investment in Scotland’s public libraries.
+{: .fs-6 .fw-300 }
 
-## Table of contents
-{: .no_toc .text-delta }
+[Start reading now](/strategy/introduction){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-1. TOC
 {:toc}
